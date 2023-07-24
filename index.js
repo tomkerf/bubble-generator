@@ -30,4 +30,4 @@ const bubbleMaker = () => {
   }, 8000); // la bubble disparait du DOM au bout de 8s (temps de l'anim)
 };
 
-setInterval(bubbleMaker, 3000);
+setInterval(bubbleMaker, 500);
